@@ -16,7 +16,7 @@ const Footer = () => {
           <h2>Contacts</h2>
           <span>Phone: +123 456 789</span>
           <span>YouTube: Mohit</span>
-          <span>GitHub: _mohit@123</span>
+          <span>GitHub: Mohit</span>
         </div>
         <div className={classes.col}>
           <h2>Location</h2>
